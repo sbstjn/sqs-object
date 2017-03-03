@@ -91,3 +91,11 @@ const object = sqsObject.Object({
   "age": 45
 }
 ```
+
+## License
+
+Feel free to use the code, it's released using the [MIT license](https://github.com/sbstjn/sqs-object/blob/master/LICENSE.md).
+
+## Contributors
+
+- [Sebastian Müller](https://sbstjn.com)
