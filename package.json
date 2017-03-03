@@ -7,7 +7,13 @@
     "test": "./node_modules/.bin/mocha test",
     "test:watch": "./node_modules/.bin/mocha test -w"
   },
-  "keywords": [],
+  "keywords": [
+    "object",
+    "sqs",
+    "aws",
+    "mapping",
+    "convert"
+  ],
   "author": "Sebastian Müller <mail@sbstjn.com>",
   "license": "MIT",
   "dependencies": {
