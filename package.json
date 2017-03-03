@@ -1,0 +1,17 @@
+{
+  "name": "sqs-object",
+  "version": "0.0.1",
+  "description": "Convert JavaScript objects to SQS Meta Attributes",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test",
+    "test:watch": "./node_modules/.bin/mocha test -w"
+  },
+  "keywords": [],
+  "author": "Sebastian Müller <mail@sbstjn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
