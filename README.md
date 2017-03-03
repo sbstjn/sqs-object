@@ -1,4 +1,6 @@
 # sqs-object
+[![npm](https://img.shields.io/npm/v/sqs-object.svg)]()
+[![license](https://img.shields.io/github/license/sbstjn/sqs-object.svg)]()
 
 Convert **JavaScript** objects to **SQS Meta** attributes as *vice verse*.
 
